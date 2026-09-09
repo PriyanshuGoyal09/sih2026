@@ -1,0 +1,3 @@
+default_scenario: config_1.h5
+slot_duration_s: 0.1
+scans_per_slot: 4
